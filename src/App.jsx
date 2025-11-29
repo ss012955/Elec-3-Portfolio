@@ -10,7 +10,7 @@ import awsPdf from './assets/pdf/Sicat_SeanRussel_A2.pdf?url';
 import dockerPdf from './assets/pdf/Sicat-Study Dockers and Containerization.pdf?url';
 import narrativePdf from './assets/pdf/Sicat-Assignment-4.pdf?url';
 import kubernetesPdf from './assets/pdf/Sicat-Assignment-5.pdf?url';
-import dockerImagePdf from './assets/pdf/Sicat_Villena_DOCKERACTIVITY.pdf?url';
+import dockerImagePdf from './assets/pdf/SICAT_VILLENA_DOCKERACTIVITY.pdf?url';
 
 // import images
 import restApiImage from './assets/images/restapi.png';
